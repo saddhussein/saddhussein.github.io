@@ -1,7 +1,7 @@
 ---
-title: "Hugo Apéro"
-subtitle: "A Hugo theme you'll want to hang out with"
-description: "Sit down, relax, and get to know Hugo Apéro. Built on top of Blogophonic, we wanted to create a polished Hugo theme with the right features for a true personal website. We set out to create a theme that is a pleasure to learn, and one that helps others get to know you better. It is more than a blog, with flexible custom layouts that help you introduce yourself online."
+title: "Saddam Hussein"
+subtitle: "Geospatial Analysis. Conservation Evidence"
+description: "A Geospatial Analyst by nature, Saddam brings a decade of expertise in remote sensing and geospatial modeling, particularly applied in wildlife conservation. In his current role as the Senior Conservation Evidence Coordinator at WCS-IP, he defines program and activity indicators, oversees data and knowledge management, conducts data analysis, and leads monitoring and evaluation efforts. His versatile skill set, honed through years of dedicated work, uniquely positions him to address challenges in wildlife conservation."
 images:
   - img/revoir.jpg
 image_left: true

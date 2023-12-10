@@ -3,10 +3,8 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Hi, my name is Hugo Apéro. Nice to meet you.
+  
 ---
 
 <!-- this is a subheadline -->
-I'm a Hugo theme you'll want to hang out with. :fr: 
-
-The page you are reading is based on a markdown file- look in `content/about/` to edit. There, look inside the `header`, `main`, and `sidebar` folders to get started building your own "about" page.
+A Geospatial Analyst by nature, Saddam brings a decade of expertise in remote sensing and geospatial modeling, particularly applied in wildlife conservation. In his current role as the Senior Conservation Evidence Coordinator at [WCS-IP](https://indonesia.wcs.org/en-us/), he defines program and activity indicators, oversees data and knowledge management, conducts data analysis, and leads monitoring and evaluation efforts.
