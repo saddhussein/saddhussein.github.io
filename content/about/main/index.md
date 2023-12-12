@@ -1,9 +1,9 @@
 ---
 ## Configure page content in wide column
 title: "About Me" # leave blank to exclude
-number_featured: 1 # pulling from mainSections in config.toml
+number_featured: 3 # pulling from mainSections in config.toml
 use_featured: false # if false, use most recent by date
-number_categories: 3 # set to zero to exclude
+number_categories: 5 # set to zero to exclude
 show_intro: true
 intro: |
   Allow me to introduce myself—I'm Saddam Hussein, a passionate geospatial analyst and evangelist, remote sensing specialist, and a wildlife conservationist.

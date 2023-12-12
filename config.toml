@@ -148,8 +148,8 @@ enableEmoji = true
     weight = 2
   [[menu.header]]
     name = "Personal"
-    title = "Element Page"
-    url = "/elements/"
+    title = "Personal Life"
+    url = "/personal/"
     weight = 6
     
   # Configure footer  
