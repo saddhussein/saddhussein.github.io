@@ -65,8 +65,8 @@ enableEmoji = true
   customheadingFontFamily = ""
   # alternatively, leave empty and select basic font options: sans-serif or serif
   # for more http://tachyons.io/docs/typography/font-family/
-  textFontFamily = "helvetica"
-  headingFontFamily = "georgia"
+  textFontFamily = "Atkinson Hyperlegible"
+  headingFontFamily = "Metropolis"
 
   # Configuration of https://utteranc.es/ for comments
   [params.utterances]
