@@ -1,7 +1,7 @@
 ---
 title: Personal Notes
 description: |
-  Thank you for expressing interest in my stories, opinions, or thoughts. If you've stumbled upon this by accident, feel free to leave. However, if you are genuinely intrigued by my personal life, you'll find my [personal blog here](blog.saddam.id). 
+  Thank you for expressing interest in my stories, opinions, or thoughts. If you've stumbled upon this by accident, feel free to leave. However, if you are genuinely intrigued by my personal life, you'll find my [personal blog here](https://geospasialis.com/). 
 author: "Saddam Hussein"
 show_post_thumbnail: true
 thumbnail_left: true # for list-sidebar only

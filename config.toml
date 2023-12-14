@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://saddam.id/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Saddam Hussein"
