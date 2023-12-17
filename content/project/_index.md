@@ -1,7 +1,7 @@
 ---
-title: A Project Portfolio To Grow
-description: "Give your projects a place to live online."
-author: "The R Markdown Team @RStudio"
+title: Projects
+description: "This is some of my professional and personal projects. However, as part of an organization, there are certain aspects that cannot be shared publicly."
+author: "Saddam Hussein"
 show_post_thumbnail: true
 show_author_byline: true
 show_post_date: false
