@@ -1,6 +1,6 @@
 ---
 title: Projects
-description: "This is some of my professional and personal projects. However, as part of an organization, there are certain aspects that cannot be shared publicly."
+description: "These are some of my professional and personal projects. However, as part of an organization, there are certain aspects that cannot be shared publicly."
 author: "Saddam Hussein"
 show_post_thumbnail: true
 show_author_byline: true
