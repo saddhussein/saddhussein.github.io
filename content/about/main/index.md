@@ -14,7 +14,7 @@ intro: |
   
   In my current role as a senior coordinator in a data and knowledge management unit, I ensure that every piece of field data is accurately collected and meticulously transformed into actionable information. It's immensely fulfilling to witness how this knowledge supports our organization in evaluating and planning effective conservation strategies.
   
-  Outside of my professional endeavors, I take pleasure in sharing my geospatial expertise [through engaging writings](/blogs). I belief that a broader understanding of geospatial data and analysis can greatly benefit individuals across various fields and areas of expertise. I am convinced that embracing geospatial insights is crucial for fostering harmony between humans, nature, and the creation of a sustainable environment, ultimately leading to a better world.
+  Outside of my professional endeavors, I take pleasure in sharing my geospatial expertise [through engaging writings](https://geospasialis.com/). I belief that a broader understanding of geospatial data and analysis can greatly benefit individuals across various fields and areas of expertise. I am convinced that embracing geospatial insights is crucial for fostering harmony between humans, nature, and the creation of a sustainable environment, ultimately leading to a better world.
   
   
 show_outro: false
