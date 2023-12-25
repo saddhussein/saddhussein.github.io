@@ -1,6 +1,6 @@
 ---
 title: "Data & Knowledge Management"
-weight: 4
+weight: 6
 subtitle: ""
 excerpt: "How my unit and I manage data and knowledge within organization."
 date: 2024-01-01

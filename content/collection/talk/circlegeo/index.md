@@ -1,31 +1,23 @@
 ---
-title: "A GitHub profile"
+title: "CircleGeo (2021)"
 weight: 1
-subtitle: "Put your best foot forward, first."
-excerpt: "You can share information about yourself with the community on GitHub by creating a profile README. GitHub shows your profile README at the top of your profile page."
-date: 2021-01-01
+subtitle: "Implementation of Geospatial Technology for Wildlife Conservation"
+excerpt: ""
+date: 2021-12-21
 draft: false
 links:
-- icon: door-open
-  icon_pack: fas
-  name: website
-  url: https://bakeoff.netlify.com/
-- icon: github
+- icon: youtube
   icon_pack: fab
-  name: code
-  url: https://github.com/apreshill/bakeoff
+  name: record
+  url: https://www.youtube.com/watch?v=c6haMX_zrcM&ab_channel=CirclegeoMedia
+- icon: google
+  icon_pack: fab
+  name: slide
+  url: 
 ---
 
-## Profile
+### Implementation of Geospatial Technology for Wildlife Conservation at [CircleGeo](https://www.instagram.com/circlegeo/) (2021)
 
-https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/personalizing-your-profile
+Representing WCS Indonesia Program, in the webinar titled "Implementation of Geospatial Technology for Wildlife Conservation" (in Bahasa Indonesia), I shared my experiences in applying technology and geospatial analysis in the field of wildlife conservation.
 
-## Pin projects to profile
-
-https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/pinning-items-to-your-profile
-
-## Profile README
-
-This is new! Let's do it:
-
-https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme
+The webinar, which took place on December 21, 2021, can be viewed in its recorded form through this [YouTube link](https://www.youtube.com/watch?v=c6haMX_zrcM&ab_channel=CirclegeoMedia).

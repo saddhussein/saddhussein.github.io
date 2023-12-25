@@ -3,7 +3,7 @@ title: "Publications"
 # list or single layouts are possible
 layout: single-series # list, list-sidebar, single-series
 show_post_thumbnail: true
-weight: 4
+weight: 5
 publishDate: 2023-12-22
 date: 2021-01-26
 subtitle: ""
