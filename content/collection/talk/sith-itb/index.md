@@ -1,6 +1,6 @@
 ---
 title: "SITH ITB (2020)"
-weight: 1
+weight: 5
 subtitle: "Geospatial Modelling"
 excerpt: ""
 date: 2020-11-26
