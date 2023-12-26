@@ -1,6 +1,6 @@
 ---
 title: "Lisat International Symposium (2018)"
-weight: 1
+weight: 6
 subtitle: "Land use change and deforestation monitoring in Bukit Barisan National Park using Multitemporal Landsat Data"
 excerpt: ""
 date: 2018-11-26

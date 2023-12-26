@@ -13,7 +13,7 @@ links:
 - icon: google
   icon_pack: fab
   name: slide
-  url: 
+  url: https://drive.google.com/file/d/1NeFxtZ4SqzF8YKrh9QSeCFk4exOz5Gl7/view?usp=sharing
 ---
 
 ### Indonesia Biogeography Class at University of Indonesia (2021)
@@ -23,3 +23,5 @@ I was invited as a guest lecturer for the Biogeography course at the Graduate Sc
 During the presentation, I explained the fundamentals of data, analysis, and geospatial technology such as GIS, remote sensing, and GPS, and how they can be used in the study and research of Biogeography and biology in general. I emphasized the importance of understanding the subjects being studied, including biological phenomena, behavior, and characteristics of specific species, when applying geospatial analysis.
 
 There were interesting discussions sparked by audience questions, including topics such as modeling the distribution of microorganisms and the use of drones for wildlife mapping.
+
+Access the presentation file [here](https://drive.google.com/file/d/1NeFxtZ4SqzF8YKrh9QSeCFk4exOz5Gl7/view?usp=sharing)

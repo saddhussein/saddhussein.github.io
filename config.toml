@@ -33,7 +33,7 @@ enableEmoji = true
   description = "Geospatial Analyst. Conservation Evidence."
   favicon = "/img/favicon.ico"
   logo = "/img/blogophonic-mark-dark.png"
-  mainSections = ["portofolio", "project", "blog"]
+  mainSections = ["collection", "project", "blog"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -101,6 +101,10 @@ enableEmoji = true
       icon      = "twitter" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://twitter.com/saddhussein"
+  [[params.social]]
+      icon      = "linkedin" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://www.linkedin.com/in/saddam-hussein/"
   #[[params.social]]
       #icon      = "impactstory" # icon name without the 'fa-'
       #icon_pack = "ai"
@@ -137,8 +141,8 @@ enableEmoji = true
     url = "/project/"
     weight = 3
   [[menu.header]]
-    name = "Portofolio"
-    title = "Portofolio"
+    name = "Portfolio"
+    title = "Portfolio"
     url = "/collection/"
     weight = 2
   [[menu.header]]

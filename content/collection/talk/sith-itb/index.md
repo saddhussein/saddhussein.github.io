@@ -1,7 +1,7 @@
 ---
 title: "SITH ITB (2020)"
-weight: 1
-subtitle: "Geospatial Modelling"
+weight: 5
+subtitle: "Geospatial Modelling in Wildlife Conservation"
 excerpt: ""
 date: 2020-11-26
 draft: false
@@ -13,11 +13,13 @@ links:
 - icon: google
   icon_pack: fab
   name: slide
-  url: 
+  url: https://drive.google.com/file/d/1kb3rv4W9OGrT6pQ5a8hSWlQctyBB6y6a/view?usp=sharing
 ---
 
-#### Analysis of Ecosystem Class at Institut Teknologi Bandung (2021)
+#### Analysis of Ecosystem Class at Institut Teknologi Bandung (2020)
 
 [School of Life Sciences and Technology (SITH) ITB](https://sith.itb.ac.id/) gave me the opportunity to share in the Ecosystem Analysis class. In this graduate-level class, I shared my knowledge and experience in conducting geospatial modeling to support wildlife conservation. I covered various topics, including an overview of geospatial technology and modeling, as well as examples of their applications in wildlife conservation.
 
 During the discussion session, some participants asked questions. One question that sparked an interesting discussion in the class was about modeling the distribution of a specific freshwater fish species. This topic was intriguing because it involved the dynamics of the species' characteristics and its habitat, particularly in flowing rivers.
+
+Access the presentation file [here](https://drive.google.com/file/d/1kb3rv4W9OGrT6pQ5a8hSWlQctyBB6y6a/view?usp=sharing).
