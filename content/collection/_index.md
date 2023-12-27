@@ -2,7 +2,7 @@
 title: "Portfolio"
 subtitle: "Saddam Hussein."
 description: |
-  Check my latest work here.
+  Check my latest work here.However, as part of an organization, there are certain aspects that cannot be shared publicly.
 author: Saddam Hussein
 show_post_thumbnail: true
 thumbnail_left: true # for list-sidebar only
