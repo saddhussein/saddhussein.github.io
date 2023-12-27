@@ -20,6 +20,7 @@ In this section, I am excited to share with you some of the talks I have given t
 
 I have had the privilege of speaking at various conferences, seminars, and events. Each talk has been an opportunity for me to dive deeper into important topics and share my expertise with a wider audience. I will provide you with a glimpse into the titles, event details, and key takeaways from each of these talks.
 
+<<<<<<< HEAD
 - [Workshop on Sedimentation Study in the Landscape of South Bolaang Mongondow Regency (2022)](https://saddam.id/collection/talk/sedimentation-r2r/)
 
 - [Implementation of Geospatial Technology for Wildlife Conservation at CircleGeo (2021)](https://saddam.id/collection/talk/circlegeo/)
@@ -32,4 +33,12 @@ I have had the privilege of speaking at various conferences, seminars, and event
 
 - [Geospatial Modelling in Wildlife Conservation at Institut Teknologi Bandung (2020)](https://saddam.id/collection/talk/sith-itb/)
 
+=======
+- [Implementation of Geospatial Technology for Wildlife Conservation at CircleGeo (2021)](https://saddam.id/collection/talk/circlegeo/)
+
+- [Indonesia Biogeography Class at University of Indonesia (2021)](https://saddam.id/collection/talk/biogeography-ui/)
+
+- [Analysis of Ecosystem Class at Institut Teknologi Bandung (2020)](https://saddam.id/collection/talk/sith-itb/)
+
+>>>>>>> 6b3ebf02ca5808bb2c2336daea28f6356a817195
 - [Lisat International Symposium (2018)](https://saddam.id/collection/talk/lisat/)
