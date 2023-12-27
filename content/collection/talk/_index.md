@@ -11,7 +11,7 @@ description: |
 
 excerpt: 
 author: Saddam Hussein
-show_post_thumbnail: true
+show_post_thumbnail: false
 show_author_byline: false
 show_post_date: false
 ---
