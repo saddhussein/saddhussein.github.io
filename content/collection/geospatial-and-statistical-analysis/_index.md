@@ -9,7 +9,7 @@ date: 2021-01-25
 subtitle: "."
 description: |
 
-excerpt: 
+excerpt:
 author: Saddam Hussein
 show_post_thumbnail: true
 show_author_byline: false
@@ -22,17 +22,19 @@ As part of an organization, there are certain aspects that cannot be shared publ
 
 ### - Remote Sensing Data Analysis
 
-- Land cover/ use classification and change
+- [Land cover/ use classification and change](https://saddam.id/collection/geospatial-statistical-analysis/lulc/)
 
 ### - Geospatial and Statistical Analysis and Modeling
 
-- Deforestation Monitoring and Modeling
+- [Deforestation Monitoring and Modeling](https://saddam.id/collection/geospatial-statistical-analysis/deforestation/)
 
-- Sedimentation Modeling using Ridge-to-Reef Approach
+- [Sedimentation Modeling using Ridge-to-Reef Approach](https://saddam.id/collection/geospatial-statistical-analysis/sedimentation-r2r/)
 
-- Occupancy Analysis and Species Distribution Modeling (SDM)
+- [Occupancy Analysis](https://saddam.id/collection/geospatial-statistical-analysis/occupancy/)
 
-- Mapping of Conservation Area Management Zone
+- [Species Distribution Modeling (SDM)](https://saddam.id/collection/geospatial-statistical-analysis/sdm/)
+
+- [Mapping of Conservation Area Management Zone](https://saddam.id/collection/geospatial-statistical-analysis/zoning/)
 
 ### - Cartography and Map Making
-- Aum! Atlas Harimau Nusantara
+- [Aum! Atlas Harimau Nusantara](https://saddam.id/collection/map/aum/)
