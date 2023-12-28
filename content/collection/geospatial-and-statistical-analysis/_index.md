@@ -6,14 +6,33 @@ show_post_thumbnail: true
 weight: 1
 publishDate: 2021-01-22
 date: 2021-01-25
-subtitle: "All about Day 01 of 'Introduce Yourself Online'."
+subtitle: "."
 description: |
-  Our first day together is all about building and publishing.
+
 excerpt: 
-author: Alison Hill
+author: Saddam Hussein
 show_post_thumbnail: true
 show_author_byline: false
 show_post_date: false
 ---
 
-If you choose `layout: single-series`, you can add markdown text here and it will be the landing page for this nested subsection.
+As the core of my expertise, the utilization of geospatial data, analysis, and mapping has been the backbone of my work. By combining it with statistical analysis for wildlife conservation, my data analysis skills have evolved over time.
+
+As part of an organization, there are certain aspects that cannot be shared publicly. However, here are some examples of my work accomplishments:
+
+### - Remote Sensing Data Analysis
+
+- Land cover/ use classification and change
+
+### - Geospatial and Statistical Analysis and Modeling
+
+- Deforestation Monitoring and Modeling
+
+- Sedimentation Modeling using Ridge-to-Reef Approach
+
+- Occupancy Analysis and Species Distribution Modeling (SDM)
+
+- Mapping of Conservation Area Management Zone
+
+### - Cartography and Map Making
+- Aum! Atlas Harimau Nusantara
