@@ -1,7 +1,7 @@
 ---
 title: "Aum! Atlas Harimau Nusantara"
 weight: 4
-subtitle: "Atlas of Sumatra Tiger Distribution"
+subtitle: "Atlas of Tiger Distribution"
 excerpt: ""
 date: 2021-01-21
 draft: false
