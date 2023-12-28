@@ -9,7 +9,7 @@ date: 2021-01-26
 subtitle: ""
 description: |
 
-excerpt: 
+excerpt:
 author: Saddam Hussein
 show_post_thumbnail: true
 show_author_byline: false
@@ -27,3 +27,13 @@ These are some of my latest publications. For a comprehensive list of all my pub
 - [Monitoring Changes in Forest Cover in Gunung Leuser National Park and Surrounding Areas, 2000-2017 (2019)](http://saddam.id/collection/publication/lulc-leuser/)
 
 - [Monitoring Changes in Forest Cover in the Bukit Barisan Selatan Landscape, 2000-2017 (2019)](http://saddam.id/collection/publication/lulc-bbs/)
+
+- [Pemanfaatan Citra Hasil Unduhan Google Earth untuk Monitoring Penutup Lahan Kawasan Gumuk Pasik Prangtritis mengunakan Object Based Image Analysis (2015)](http://localhost:4321/collection/publication/obia-google-earth/)
+
+- [Object Based Image Analysis (OBIA) for Land Cover Mapping in a Heterogeneous Landscape : A Comparison of Sample Based and Rule Based Classification (2013)](http://saddam.id/publication/obia-heterogeneous-landscape/)
+
+- [Pengaruh Penambahan Informasi Spasial pada Feature Space Klasifikasi Berbasis Objek Terhadap Akurasi Pemetaan Penutup Lahan (2013)](http://saddam.id/collection/publication/obia-feature/)
+
+- [Pemanfaatan Penginderaan Jauh dan Sistem Informasi Geografis untuk Penentuan Lokasi Prioritas Wanatani Kawasan Hutan Kabupaten Banyuwangi (2012)](http://saddam.id/collection/publication/sig-wanatani/)
+
+- [Pemanfaatan Sistem Informasi Geografis (SIG) Berbasis Open Source untuk Analisis Kerentanan Air Permukaan SubDas Blongkeng (2012)](http://saddam.id/collection/publication/sig-blongkeng/)
