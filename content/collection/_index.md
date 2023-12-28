@@ -4,7 +4,7 @@ subtitle: "Saddam Hussein."
 description: |
   Check my latest work here.However, as part of an organization, there are certain aspects that cannot be shared publicly.
 author: Saddam Hussein
-show_post_thumbnail: true
+show_post_thumbnail: false
 thumbnail_left: true # for list-sidebar only
 show_author_byline: false
 show_post_date: false
@@ -18,7 +18,7 @@ cascade:
     title: "My Portfolio"
     author: Saddam Hussein
     description: |
-      Check my latest work here.
+      Check my latest work here. However, as part of an organization, there are certain aspects that cannot be shared publicly.
     show_author_byline: true
     show_post_date: true
     text_link_label: ""

@@ -8,7 +8,7 @@ publishDate: 2021-01-22
 date: 2021-01-26
 subtitle: ""
 description:
-excerpt:
+excerpt: "Enhancing skills and knowledge through training and mentoring has played a crucial role in shaping my professional growth. Within this section, I will highlight notable accomplishments from my experiences as both a trainer and a trainee."
 author: Saddam Hussein
 show_post_thumbnail: true
 show_author_byline: false

@@ -4,14 +4,14 @@ title: "Geospatial & Statistical Analysis"
 layout: single-series # list, list-sidebar, single-series
 show_post_thumbnail: true
 weight: 1
-publishDate: 2021-01-22
-date: 2021-01-25
-subtitle: "."
+publishDate: 2023-12-22
+date: 2021-01-26
+subtitle: ""
 description: |
 
-excerpt:
+excerpt: "As the core of my expertise, the utilization of geospatial data, analysis, and mapping has been the backbone of my work. By combining it with statistical analysis for wildlife conservation, my data analysis skills have evolved over time."
 author: Saddam Hussein
-show_post_thumbnail: true
+show_post_thumbnail: false
 show_author_byline: false
 show_post_date: false
 ---

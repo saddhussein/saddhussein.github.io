@@ -9,7 +9,7 @@ date: 2021-01-26
 subtitle: ""
 description: |
 
-excerpt:
+excerpt: "I am excited to share with you some of publications I have contributed to throughout my career. These experiences have allowed me to engage with fellow professionals, share my insights, and contribute to the knowledge in my field."
 author: Saddam Hussein
 show_post_thumbnail: true
 show_author_byline: false

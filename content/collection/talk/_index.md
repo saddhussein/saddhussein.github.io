@@ -9,7 +9,7 @@ date: 2021-01-26
 subtitle: ""
 description: |
 
-excerpt: 
+excerpt: "I have had the privilege of speaking at various conferences, seminars, and events. Each talk has been an opportunity for me to dive deeper into important topics and share my expertise with a wider audience."
 author: Saddam Hussein
 show_post_thumbnail: false
 show_author_byline: false
