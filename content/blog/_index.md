@@ -1,8 +1,7 @@
 ---
 title: Notes
 description: |
-  This is a fully featured blog that supports categories, 
-  tags, series, and pagination.
+  These are some of my notes which are worth sharing.
 author: "Saddam Hussein"
 show_post_thumbnail: true
 thumbnail_left: true # for list-sidebar only

@@ -12,4 +12,6 @@ A Geospatial Analyst by nature, Saddam brings a decade of expertise in remote se
 See my profile in [Linkedin](https://www.linkedin.com/in/saddam-hussein/).
 Or check my [resume]().
 
-I am open for research collaboration and consultation. Contact me at email[dot]saddamh[at]gmail[dot]com.
+I am open for research collaboration and consultation, as well as training and mentoring. 
+
+Contact me at email[dot]saddamh[at]gmail[dot]com.

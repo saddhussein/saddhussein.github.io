@@ -5,7 +5,7 @@ description: "A Geospatial Analyst by nature, Saddam brings a decade of expertis
 images:
   - img/revoir.jpg
 image_left: true
-text_align_left: false
+text_align_left: true
 show_social_links: true # specify social accounts in site config
 show_action_link: true
 action_link: /about
