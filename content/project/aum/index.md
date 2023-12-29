@@ -4,9 +4,7 @@ weight: 4
 subtitle: "Atlas of Tiger Distribution"
 excerpt: "This book provides a comprehensive explanation of Tigers in Indonesia, including their physical characteristics and habitat, spatial distribution, historical and current status, and conservation plans."
 date: 2021-01-21
-author: "Saddam Hussein"
 draft: false
-
 links:
 # - icon: youtube
 #   icon_pack: fab
