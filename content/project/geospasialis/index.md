@@ -4,7 +4,7 @@ subtitle: "Blog about geospatial in Bahasa Indonesia"
 excerpt: "The vision of this website is to provide accurate and up-to-date information about the geospatial world, including spatial data and analysis, cartography and maps, as well as Geographic Information Systems (GIS) and remote sensing in Bahasa Indonesia."
 weight: 1
 date: 2023-12-18
-author: "Saddam Hussein"
+
 draft: false
 links:
 # - icon: youtube

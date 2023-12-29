@@ -2,9 +2,10 @@
 title: "Sumatra Wide Tiger Survey II"
 subtitle: "The world's largest wildlife survey"
 excerpt: "SWTS is a collaborative program involving the government, non-governmental organizations, and private entities to conduct a survey of the Sumatran tiger's habitat and assess its population trends in the wild."
+
 weight: 2
 date: 2019-07-02
-author: "Saddam Hussein"
+
 featured: true
 draft: false
 
