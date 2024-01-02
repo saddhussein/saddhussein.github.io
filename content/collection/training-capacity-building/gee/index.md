@@ -26,4 +26,4 @@ We used GEE for several basic applications, including:
 
 This training provided me with a foundation of knowledge. Using these fundamentals, I have developed my skills in using GEE for my work.
 
-Read more through [this link](https://geospasialis.com/google-earth-engine-workshop-indonesia-2019/).
+Read more through [this link](https://saddam.id/blog/gee-workshop/).

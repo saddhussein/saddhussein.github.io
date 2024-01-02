@@ -39,4 +39,4 @@ Similarly, participants had to choose one module between creating videos and cre
 
 This training provided me with a solid foundation of knowledge, especially since I was new to the field of wildlife conservation. The knowledge gained from this course has been highly beneficial and has enhanced and accelerated my career as a data analyst for wildlife conservation.
 
-Read more through [this link](https://geospasialis.com/elearning-wildlife-conservation-course-wildcru/).
+Read more through [this link](https://saddam.id/blog/ewcc-wildcru/).
