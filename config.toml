@@ -131,8 +131,8 @@ enableEmoji = true
     url = "/about/"
     weight = 1
   [[menu.header]]
-    name = "Blog"
-    title = "Blog"
+    name = "Notes"
+    title = "Notes"
     url = "/blog/"
     weight = 4
   [[menu.header]]

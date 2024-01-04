@@ -15,11 +15,11 @@ links:
   icon_pack: fas
   name: access it here
   url: https://geospasialis.com
-tags:
-  - 
-categories:
-  - blog
-  - website
+# tags:
+#   - 
+# categories:
+#   - blog
+#   - website
 # layout options: single or single-sidebar
 layout: single
 ---

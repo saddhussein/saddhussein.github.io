@@ -1,7 +1,7 @@
 ---
 title: Personal
 description: |
-  Thank you for expressing interest in my personal stories, opinions, or thoughts. If you've stumbled upon this by accident, feel free to leave, or check my [portofolio](/portofolio) or my [profile](/about). However, if you are genuinely intrigued by my personal life, you'll find it [here](/memoir). 
+  Thank you for expressing interest in my personal stories, opinions, or thoughts. If you've stumbled upon this by accident, feel free to leave, or check my [portfolio](/collection) or my [profile](/about). However, if you are genuinely intrigued by my personal life, you'll find it [here](https://blog.saddam.id/). 
 author: "Saddam Hussein"
 show_post_thumbnail: true
 thumbnail_left: true # for list-sidebar only
