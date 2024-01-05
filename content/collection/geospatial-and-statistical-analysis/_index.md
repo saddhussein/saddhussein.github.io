@@ -11,7 +11,7 @@ description: |
 
 excerpt: "As the core of my expertise, the utilization of geospatial data, analysis, and mapping has been the backbone of my work. By combining it with statistical analysis for wildlife conservation, my data analysis skills have evolved over time."
 author: Saddam Hussein
-show_post_thumbnail: false
+show_post_thumbnail: true
 show_author_byline: false
 show_post_date: false
 ---
